@@ -1,0 +1,6 @@
+针对多语言打包工具
+配置vscode中的格式化文档
+{
+  "city": "cityA",
+  "language": "languageA"
+}
